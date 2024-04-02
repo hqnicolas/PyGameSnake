@@ -1,4 +1,4 @@
-# PyExercices
+# PyGame
 - Publicando aqui meu primeiro jogo em Python.
 - Aulas Proferidas pelo www.cursoemvideo.com
 - Criando jogos com a Biblioteca PyGame
