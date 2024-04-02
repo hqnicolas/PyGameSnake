@@ -12,3 +12,7 @@
 - [Food.py](https://github.com/hqnicolas/PyGameSnake/blob/main/snake_body/Food.py)
 - [Snake.py](https://github.com/hqnicolas/PyGameSnake/blob/main/snake_body/Snake.py)
 - [__init__.py](https://github.com/hqnicolas/PyGameSnake/blob/main/snake_body/__init__.py)
+
+# [Readme](https://github.com/hqnicolas/PyGameSnake/blob/main/README.md)
+- [Main.py](https://github.com/hqnicolas/PyGameSnake/blob/main/main.py)
+- [Requerimentos.txt](https://github.com/hqnicolas/PyGameSnake/blob/main/requirements.txt)
