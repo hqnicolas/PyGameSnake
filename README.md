@@ -1,3 +1,5 @@
+![image](https://github.com/hqnicolas/PyGameSnake/assets/41456803/e7c6ddc3-290d-4503-abca-67638ec2db44)
+
 # PyGame
 - Publicando aqui meu primeiro jogo em Python.
 - Aulas Proferidas pelo www.cursoemvideo.com
